@@ -1,0 +1,15 @@
+#page_header{
+    background-color: #085EB8;
+    height: 200px;
+}
+
+#page_footer{
+    background-color: #08407D;
+    height: 150px;
+    text-align: center;
+}
+
+#products{
+    background-color: #DDEAF9 ;
+    height: 800px;
+}
